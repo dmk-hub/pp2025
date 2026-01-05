@@ -1,0 +1,14 @@
+total 48
+drwxrwxr-x  6 shibuya shibuya 4096 Jan  5 11:19 .
+drwxr-x--- 28 shibuya shibuya 4096 Jan  5 11:04 ..
+-rw-rw-r--  1 shibuya shibuya 2982 Dec 13 16:49 1.student.mark.py
+-rw-rw-r--  1 shibuya shibuya 3086 Dec 13 16:04 2.student.mark.oop.py
+-rw-rw-r--  1 shibuya shibuya 3304 Dec 13 16:32  3.student.mark.oop.math.py
+-rw-rw-r--  1 shibuya shibuya 1825 Jan  5 10:59 7.shell.py
+drwxrwxr-x  8 shibuya shibuya 4096 Jan  5 11:03 .git
+-rw-rw-r--  1 shibuya shibuya    0 Jan  5 11:19 input.txt
+-rw-rw-r--  1 shibuya shibuya  704 Jan  5 11:05 out.txt
+drwxrwxr-x  3 shibuya shibuya 4096 Dec 18 10:57 pw4
+drwxrwxr-x  4 shibuya shibuya 4096 Dec 18 12:10 pw5
+drwxrwxr-x  4 shibuya shibuya 4096 Jan  5 11:03 pw6
+-rw-rw-r--  1 shibuya shibuya  107 Nov 29 10:01 README.md
